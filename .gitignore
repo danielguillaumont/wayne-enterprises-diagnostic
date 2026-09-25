@@ -1,0 +1,11 @@
+# Generated diagnostic reports
+reports/*.json
+reports/*.html
+
+# PowerShell temporary files
+*.tmp
+
+# OS / IDE files
+.vscode/
+.DS_Store
+Thumbs.db
